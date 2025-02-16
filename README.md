@@ -16,13 +16,13 @@
 
 ***Print statements***
 
-```sql
+```python
 print ("welcome to  google colab")
 ```
 
 ***Print max values***
 
-```sql
+```python
 a=7
 b=5
 print(max(a,b))
@@ -30,7 +30,7 @@ print(max(a,b))
 
 ***Print factorial numbers***
 
-```sql
+```python
 num=6
 factorial=1
 for i in range(1,num+1):
@@ -40,7 +40,7 @@ print(f"the factorial of {num} is {factorial}")
 
 ***Print simple intrest amount***
 
-```sql
+```python
 p=10000
 r=5
 t=5
@@ -50,7 +50,7 @@ print(si)
 
 ***Print sum of two number using def function***
 
-```sql
+```python
 def add_numbers (num1,num2):
   sum = num1+num2
   print("sum: ",sum)
@@ -60,7 +60,7 @@ add_numbers(9,8)
 
 ***Converting kilometers to meters***
 
-```sql
+```python
 km=float(input("enter the value in km:"))
 con_fac=0.6213
 miles=km*con_fac
@@ -69,7 +69,7 @@ print(miles,"miles")
 
 ***Creating a dataframe***
 
-```sql
+```python
 import pandas as pd
 my_dataset= {'car':['bmw','shift','ford','volvo'],
              'year':['2013','2007','2010','2009'],
@@ -81,14 +81,14 @@ print(my_var)
 
 ***Displaying pandas version***
 
-```sql
+```python
 import pandas as pd
 print (pd.__version__)
 ```
 
 ***Created a data with series***
 
-```sql
+```python
 import pandas as pd
 calories={'day1':500,'day2':430,'day3':470}
 my_cal=pd.Series(calories)
@@ -97,6 +97,6 @@ print(my_cal)
 
 ***Printing only one value***
 
-```sql
+```python
 print(my_cal[0])
 ```
