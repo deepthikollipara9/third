@@ -1,7 +1,7 @@
 # Day 3- 06 Feb 2025
 
 1) Exporing Google Colab Notebook from the official [site](https://colab.research.google.com/)
-2) Knowing how does colab notebook work from the youtube [link](https://www.youtube.com/watch?v=WrB-ECT-y8c)
+2) Knowing how does colab notebook work from the  [youtube](https://www.youtube.com/watch?v=WrB-ECT-y8c)
 3) Practing few python programs
 4) Generated sample questions using chatgpt
     - login to [ChatGPT](https://openai.com/index/chatgpt/)
